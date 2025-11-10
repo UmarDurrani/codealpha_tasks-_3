@@ -1,0 +1,12 @@
+ProjectFlow - Project Management Tool Documentation
+
+This is a complete project management tool similar to Trello, built with PHP and MySQL.
+
+Features:
+- User authentication system
+- Project and task management
+- Team collaboration
+- Real-time notifications
+- Responsive design
+
+See README.md for installation instructions.
